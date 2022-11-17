@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mastodonlm/static/css/main.fa556ef5.css",
+    "main.js": "/mastodonlm/static/js/main.a3a7a187.js",
+    "static/js/787.adfca2f9.chunk.js": "/mastodonlm/static/js/787.adfca2f9.chunk.js",
+    "index.html": "/mastodonlm/index.html",
+    "main.fa556ef5.css.map": "/mastodonlm/static/css/main.fa556ef5.css.map",
+    "main.a3a7a187.js.map": "/mastodonlm/static/js/main.a3a7a187.js.map",
+    "787.adfca2f9.chunk.js.map": "/mastodonlm/static/js/787.adfca2f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa556ef5.css",
+    "static/js/main.a3a7a187.js"
+  ]
+}
