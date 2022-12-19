@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mastodonlm/static/css/main.b1b38333.css",
-    "main.js": "/mastodonlm/static/js/main.705c2eeb.js",
+    "main.js": "/mastodonlm/static/js/main.7f296218.js",
     "static/js/787.adfca2f9.chunk.js": "/mastodonlm/static/js/787.adfca2f9.chunk.js",
     "index.html": "/mastodonlm/index.html",
     "main.b1b38333.css.map": "/mastodonlm/static/css/main.b1b38333.css.map",
-    "main.705c2eeb.js.map": "/mastodonlm/static/js/main.705c2eeb.js.map",
+    "main.7f296218.js.map": "/mastodonlm/static/js/main.7f296218.js.map",
     "787.adfca2f9.chunk.js.map": "/mastodonlm/static/js/787.adfca2f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b38333.css",
-    "static/js/main.705c2eeb.js"
+    "static/js/main.7f296218.js"
   ]
 }
